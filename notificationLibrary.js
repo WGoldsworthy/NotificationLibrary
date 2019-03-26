@@ -125,3 +125,5 @@ Notification = function (options) {
 
 	handleOptions();
 }
+
+exports.Notification = Notification();
