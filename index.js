@@ -1,5 +1,4 @@
 
-
 document.getElementById('button').addEventListener('click', function(e) {
  	new Notification({message: "Added to Basket!", color: '#66A57A', icon: "shopping_cart"});
 });
